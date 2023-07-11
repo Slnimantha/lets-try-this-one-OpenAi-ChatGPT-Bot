@@ -18,7 +18,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 */
 global.OWNER_NAME = 'RJAY' // Owner Name
 global.OWNER_NUMBER = ['94789436089'] //Owner Number
-global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers Like a Sudo Numbers
+global.BOT_ADMINS = ['94789436089','94789436089'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
 global.CAPTION = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ-ᴍᴀᴋᴇʀ-ᴏꜰᴄ ᴀɪ ʙᴏᴛ'
